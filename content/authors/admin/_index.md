@@ -1,84 +1,39 @@
 ---
-# Display name
-title: Alice Bighetti 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Yiwen Li
+role: Statistics Undergraduate
+avatar_filename: beauty_1658758389562.jpg
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Machine Learning
+  - Statistical Inference
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: even.li@mail.utoronto.ca
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/Evenlii
+  - display:
+      header: false
+    link: https://www.linkedin.cn/incareer/in/ACoAADTjiw8B4g6v5_BZTL-73ETe_Z1k_CGpDy0
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    icon: linkedin
+organizations:
+  - name: University of Toronto
+    url: https://www.statistics.utoronto.ca/
+education:
+  courses:
+    - course: BSc in Statistics & Economics
+      institution: University of Toronto
+      year: ""
+superuser: true
+last_name: Bighetti
 highlight_name: true
+first_name: Alice
+email: even.li@mail.utoronto.ca
 ---
+I am currently an undergraduate majoring in Statistics and Economics at UofT. During my academic journey at UofT, I developed a strong interest in data science. Regarding the area of specialization, I am particularly interested in machine learning and am motivated by solving real-world challenges with the combinations of programming technics and statistical theories. I am excited about exploring how the applications of statistical methods on real-world data and the utilization of programming software can offer powerful insights into the improvement of the business. 
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As an individual who has undergone extensive undergraduate studies in the field of statistics and economics, I am incredibly motivated to further proliferate my understanding of the applications of statistics. Most of the projects I have done in the past were based on survey data to analyze existing social issues and topics related to health science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yiwen Li - CV.pdf" "newtab" >}}resume{{< /staticref >}}.
