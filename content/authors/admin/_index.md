@@ -36,4 +36,4 @@ I am currently an undergraduate majoring in Statistics and Economics at UofT. Du
 
 As an individual who has undergone extensive undergraduate studies in the field of statistics and economics, I am incredibly motivated to further proliferate my understanding of the applications of statistics. Most of the projects I have done in the past were based on survey data to analyze existing social issues and topics related to health science.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "desktops/Yiwen Li - CV.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref “content/authors/Yiwen Li - CV "newtab" >}}resume{{< /staticref >}}.
