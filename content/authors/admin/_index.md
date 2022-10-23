@@ -1,7 +1,7 @@
 ---
 title: Yiwen Li
 role: Statistics Undergraduate
-avatar_filename: beauty_1658758389562.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Machine Learning
